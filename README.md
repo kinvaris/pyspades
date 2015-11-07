@@ -19,7 +19,7 @@ sudo python -m easy_install pygeoip
 ##Then clone the repository:
 
 ```
-git clone 
+git clone https://github.com/kinvaris/pyspades.git
 cd pyspades
 sh build.sh
 ```
