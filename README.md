@@ -28,7 +28,7 @@ sh build.sh
 
 ```
 cd feature_server
-vim config.txt
+vim config.txt.default
 ```
 
 ##Then, to run the server, either:
