@@ -49,3 +49,4 @@ sh run_server.sh
 * If you want to connect directly to the dedicted server *(make sure the port is open on the firewall or port-forwarded)*: `aos://192.168.1.2`
 
 *Fork & source:* https://github.com/infogulch/pyspades/wiki/Setup-Ubuntu
+*Pyspades official userscripts:* https://github.com/matpow2/pyspades-userscripts
