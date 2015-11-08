@@ -24,11 +24,10 @@ cd pyspades
 sh build.sh
 ```
 
-##Edit the configuration:
+##Edit the configuration: *(setup can read: config.txt.default or config.txt)*
 
 ```
-cd feature_server
-vim config.txt.default
+vim feature_server/config.txt.default
 ```
 
 ##Then, to run the server, either:
