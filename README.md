@@ -1,7 +1,7 @@
 #How to install pyspades on Ubuntu or Debian
 
 * Description: Easy-to-deploy pyspades dedictated linux server
-* Tested Linux distro's: `Ubuntu 14.04.3` and `Debian 8.2`
+* Tested Linux distro's: `Debian 7`
 * Fork & source: https://github.com/infogulch/pyspades/wiki/Setup-Ubuntu
 * Pyspades official userscripts: https://github.com/matpow2/pyspades-userscripts
 
